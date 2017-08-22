@@ -87,5 +87,6 @@ public class Payload {
                 this.type = type;
             }
         }
+
     }
 }
